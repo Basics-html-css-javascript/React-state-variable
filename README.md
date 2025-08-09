@@ -1,4 +1,4 @@
-# React State Examples – Simple, Medium, and Hard
+# React State 
 
 This project demonstrates **three levels of React state management** using the `useState` hook, along with **Tailwind CSS** for styling.
 
@@ -19,3 +19,9 @@ We use the `useState` hook to:
 **Syntax:**
 ```javascript
 const [stateVariable, setStateVariable] = useState(initialValue);
+```
+
+---
+## Output
+<img width="327" height="328" alt="output" src="https://github.com/user-attachments/assets/6ad2d227-ad89-4a92-bb21-29bba553383f" />
+
